@@ -19,10 +19,11 @@ do not view below unless you will be mature!
 
 
 bad_words = [
-    'anus', 'arse', 'ass', 'basta', 'bitch', 'bone', 'butt', 'cock',
+    #LOL IK BAD WORDS NOW XD
+    'anus', 'arse', 'ass'  , 'basta', 'bitch', 'bone', 'butt', 'cock',
     'cunt', 'cracker', 'damn', 'dick', 'dike', 'dild', 'dyke', 'fag',
     'fuck', 'gay', 'hell', 'handjo', 'jizz', 'kunt', 'lesb', 'mcfagget', 
-    'negro', 'nigg', 'nutsack', 'pecker', 'penis', 'piss', 'pussy',
+    'negro', 'nigger', 'nutsack', 'pecker', 'penis', 'piss', 'pussy',
     'prick', 'queer', 'renob', 'rimjob', 'shit', 'shiz', 'slut',
     'testicle', 'tit', 'twat', 'vaj', 'vag', 'wank', 'whore']
 
